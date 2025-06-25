@@ -1,0 +1,4 @@
+n8n_data/
+__pycache__/
+*.xlsx
+.env
